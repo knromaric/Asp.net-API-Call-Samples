@@ -1,0 +1,12 @@
+﻿@model Giphy_Api.Models.Gif
+
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+
+@foreach(var item in Model.data)
+{
+    <img src="@item.images.original.url" />
+}

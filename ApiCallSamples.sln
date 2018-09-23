@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemon Api", "Pokemon Api\Pokemon Api.csproj", "{153AABE2-02D5-45F1-9A1C-EB8B6D4A70AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Giphy Api", "Giphy Api\Giphy Api.csproj", "{05CEAA2A-7488-4196-B1FA-EB3E03EE47EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Youtube Api", "Youtube Api\Youtube Api.csproj", "{051E7079-D2F5-4B5E-8A72-323B7761242E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{153AABE2-02D5-45F1-9A1C-EB8B6D4A70AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{153AABE2-02D5-45F1-9A1C-EB8B6D4A70AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{153AABE2-02D5-45F1-9A1C-EB8B6D4A70AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{153AABE2-02D5-45F1-9A1C-EB8B6D4A70AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05CEAA2A-7488-4196-B1FA-EB3E03EE47EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05CEAA2A-7488-4196-B1FA-EB3E03EE47EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05CEAA2A-7488-4196-B1FA-EB3E03EE47EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05CEAA2A-7488-4196-B1FA-EB3E03EE47EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{051E7079-D2F5-4B5E-8A72-323B7761242E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{051E7079-D2F5-4B5E-8A72-323B7761242E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{051E7079-D2F5-4B5E-8A72-323B7761242E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{051E7079-D2F5-4B5E-8A72-323B7761242E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C1F3126-53E8-4F65-8BC8-5B0C5838C0DF}
+	EndGlobalSection
+EndGlobal
